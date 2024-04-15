@@ -1,10 +1,10 @@
 # CHANGELOG
 
-## {DATE}
-### Contributors
+## 2024/4/15
+### Qianyun Wang
 ...
 
-### Added
+### Added a photo of the assembled Devboard
 ...
 
 ### Changed
